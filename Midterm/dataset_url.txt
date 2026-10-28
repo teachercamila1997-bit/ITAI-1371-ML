@@ -1,0 +1,2 @@
+Kaggle source: https://www.kaggle.com/datasets/rafi003/healthcare-disease-prediction-dataset?resource=download>
+Working copy: https://docs.google.com/spreadsheets/d/1wQTS2-bZKC2n17To2Smp1NAFMFeBEjh_rklu0wi7mu0/edit#gid=1445603174
