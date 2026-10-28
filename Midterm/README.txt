@@ -10,7 +10,7 @@ This project takes a patient health dataset through a complete, reproducible pre
 All changes to the data are made in code. **The dataset was never edited manually or in Excel.**
 
 ## Dataset
-- **Original source (Kaggle):** [paste Kaggle dataset URL here]
+- **Original source (Kaggle):** https://www.kaggle.com/datasets/rafi003/healthcare-disease-prediction-dataset?resource=download>
 - **Working copy (Google Sheets):** https://docs.google.com/spreadsheets/d/1wQTS2-bZKC2n17To2Smp1NAFMFeBEjh_rklu0wi7mu0/edit?gid=1445603174
 - **Size:** 2,000 rows × 15 columns (14 after dropping the `Patient_ID` identifier)
 - **Features:** Age, Gender, BMI, Blood_Pressure_Systolic, Blood_Pressure_Diastolic, Cholesterol, Glucose_Level, Smoking, Alcohol_Intake, Physical_Activity, Family_History, Heart_Disease, Diabetes
